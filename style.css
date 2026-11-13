@@ -1,9 +1,9 @@
 img {
-    width: 200px;
+    width: 500px;
 }
 body {
     text-align: center;
     font-family: 'Indie Flower';
-    background: rgb(150, 204, 155);
-    color:blanchedalmond; 
+    background: blanchedalmond;
+    color:rgb(211, 162, 150); 
 }
